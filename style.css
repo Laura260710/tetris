@@ -1,0 +1,25 @@
+canvas {
+    display: block;
+    margin: auto;
+    border: 3px solid rgb(255, 3, 238);
+    background-color: white;
+}
+
+#fundo{
+background-image: url(https://cdn.shopify.com/s/files/1/0046/3339/5286/products/lego1_grande.jpg?v=1626274769);
+background-position: center;
+text-align: center;
+}
+
+#playbutton {
+    width: 100px;
+    height: 50px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(255, 3, 238);
+    cursor: pointer;
+}
